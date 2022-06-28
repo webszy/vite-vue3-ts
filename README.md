@@ -25,10 +25,6 @@
 
 - 📦 [Components auto importing](./src/components)
 
-- 🎨 [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
-
-- 😃 Use icons from any icon sets in [Pure CSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
-
 - 🔥 Use the [new `<script setup>` style](https://github.com/vuejs/rfcs/pull/227)
 
 - ✅ Use [Vitest](http://vitest.dev/) for unit and components testing
@@ -50,17 +46,8 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 - ~~SSG~~
 - ~~PWA~~
 - ~~Markdown~~
-
+- ~~UnoCSS~~
 ## Pre-packed
-
-### UI Frameworks
-
-- [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
-
-### Icons
-
-- [Iconify](https://iconify.design) - use icons from any icon sets [🔍Icônes](https://icones.netlify.app/)
-- [Pure CSS Icons via UnoCSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
 
 ### Plugins
 
